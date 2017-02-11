@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sec_kill.jpg",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable-hdpi\\sec_kill.jpg"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\banner.jpg",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable-hdpi\\banner.jpg"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\data_null.jpg",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable-hdpi\\data_null.jpg"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\product_iv.jpg",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable-hdpi\\product_iv.jpg"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\super_account_info_bg.jpg",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable-hdpi\\super_account_info_bg.jpg"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.jpg",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.jpg"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\regist_cbx_selected.jpg",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable-hdpi\\regist_cbx_selected.jpg"
+    }
+]

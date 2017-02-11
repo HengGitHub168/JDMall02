@@ -1,0 +1,625 @@
+[
+    {
+        "outputFile": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 55,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 57,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 57,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 54,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 54,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 63,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 63,
+                        "endOffset": 389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 55,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 55,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 60,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 60,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 59,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 59,
+                        "endOffset": 569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 61,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 61,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 47,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endColumn": 48,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 48,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 47,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 47,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endColumn": 57,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 55,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 41,
+                    "endOffset": 823
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 44,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 44,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 44,
+                    "endOffset": 913
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 44,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 918,
+                    "endColumn": 40,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 40,
+                        "endOffset": 138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endColumn": 40,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 40,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 44,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 44,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 61,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 61,
+                        "endOffset": 639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endColumn": 62,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 62,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 65,
+                    "endOffset": 1231
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 451,
+                        "endColumn": 65,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1236,
+                    "endColumn": 61,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 61,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 62,
+                    "endOffset": 1356
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 62,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1361,
+                    "endColumn": 62,
+                    "endOffset": 1419
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 518,
+                        "endColumn": 62,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1424,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1908,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1590,
+                    "endColumn": 61,
+                    "endOffset": 1647
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 78,
+                        "endColumn": 68,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1652,
+                    "endColumn": 50,
+                    "endOffset": 1698
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 150,
+                        "endColumn": 57,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1703,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2195
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2200,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 2633
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 1900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2638,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 2957
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2962,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 3354
+                },
+                "from": {
+                    "file": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 943
+                    }
+                }
+            }
+        ]
+    }
+]

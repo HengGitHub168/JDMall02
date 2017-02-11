@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_address.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_add_address.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settle.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_settle.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choose_activity.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_choose_activity.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sub_category_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\sub_category_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\divider_layout.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\divider_layout.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\subcategory_item_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\subcategory_item_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_bar.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\bottom_bar.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recommend_comment_item_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\recommend_comment_item_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_input_et.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\number_input_et.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reset.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_reset.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_list.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_details_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\product_details_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_order_details.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_order_details.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_wait_sure.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\frag_wait_sure.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_regist.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_regist.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rating_bar_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\rating_bar_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shopcar_lv_item.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\shopcar_lv_item.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_order_item.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\all_order_item.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\thirdcategory_item_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\thirdcategory_item_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_search_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_child_module.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\home_child_module.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alipay.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_alipay.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recommend_gv_item.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\recommend_gv_item.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_dialog.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\pay_dialog.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_wait_pay.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\frag_wait_pay.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\null_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\null_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_shopcar.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\fragment_shopcar.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\address_pop_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\address_pop_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_sort_pop_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\product_sort_pop_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_comment_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\product_comment_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brand_lv_item_tv.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\brand_lv_item_tv.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_wait_receive.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\frag_wait_receive.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_category_item.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\top_category_item.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_seckill_item.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\home_seckill_item.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_introduce_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\product_introduce_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product_lv_item.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\product_lv_item.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose_address_item_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\choose_address_item_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_category.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment_item_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\comment_item_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\loading_dialog_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\order_details_products_item.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\order_details_products_item.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frag_all_order.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\frag_all_order.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discover_divider_layout.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\discover_divider_layout.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_productdetails.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_productdetails.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\build_order_pop_view.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\build_order_pop_view.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_orderlist.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\layout\\activity_orderlist.xml"
+    }
+]

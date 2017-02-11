@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopcar_item_cbx_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\shopcar_item_cbx_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scroll_to_top_indic.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\scroll_to_top_indic.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_price_bg_selector.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\choose_price_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alipay_pop_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\alipay_pop_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_dialog_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\loading_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_bot_bar.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\mine_bot_bar.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time_left_shap.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\time_left_shap.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_productlist_price_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\choose_productlist_price_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ad_indicator_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\ad_indicator_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_category_item_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\top_category_item_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_src.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\loading_src.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_all_bg_selector.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\choose_all_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shopcar_bot_bar.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\shopcar_bot_bar.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alipay_btn_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\alipay_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_product_indicator_tv_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\choose_product_indicator_tv_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pay_money_choose_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\pay_money_choose_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_et_shap.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\search_et_shap.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\regist_cbx_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\regist_cbx_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\order_item_btn_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\order_item_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\number_input_et_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\number_input_et_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bot_bar.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\category_bot_bar.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bot_textcolor.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\bot_textcolor.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_bot_bar.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\home_bot_bar.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_title_txtcolor.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\comment_title_txtcolor.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_productlist_service.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\choose_productlist_service.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pro_introl_icon_indic_bg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\pro_introl_icon_indic_bg.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\choose_productlist_service_txtbg.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\drawable\\choose_productlist_service_txtbg.xml"
+    }
+]

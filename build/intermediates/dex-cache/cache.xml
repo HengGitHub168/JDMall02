@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\HSBworkspace1\JDMall02\app\libs\fastjson-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ad83af2bfe2f91e73f2ab5031c98b4bbb424451">
+        <dex dex="F:\HSBworkspace1\JDMall02\app\build\intermediates\pre-dexed\debug\fastjson-1.0.3_35e3c6d01f6f23010f9fd05f6789daaeae0ea90a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\myassdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\HSBworkspace1\JDMall02\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_dab87d24a57c917bc5ca88166a34c80a0222edb6.jar" />
+    </item>
+
+</items>

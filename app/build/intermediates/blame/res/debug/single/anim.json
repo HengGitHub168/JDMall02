@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\anim\\open_exit_anim.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\anim\\open_exit_anim.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\anim\\close_exit_anim.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\anim\\close_exit_anim.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\anim\\open_enter_anim.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\anim\\open_enter_anim.xml"
+    },
+    {
+        "merged": "F:\\HSBworkspace1\\JDMall02\\app\\build\\intermediates\\res\\merged\\debug\\anim\\close_enter_anim.xml",
+        "source": "F:\\HSBworkspace1\\JDMall02\\app\\src\\main\\res\\anim\\close_enter_anim.xml"
+    }
+]
